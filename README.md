@@ -25,49 +25,49 @@
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Number and name of feature: ________________________________
+Number and name of feature: 1. Data formatting
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 3:30 p.m 
 
-Finish time: _____
+Finish time: 5 p.m 
 
-Actual time needed to complete: _____
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
+Actual time needed to complete: 1.5 hour
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Number and name of feature: ________________________________
+Number and name of feature: 2. Locations
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1.5 hour
 
-Start time: _____
+Start time: 5:30 p.m
 
-Finish time: _____
+Finish time: 7:30 p.m
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-Number and name of feature: ________________________________
+Number and name of feature: 3. Weather
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1.5 hour
 
-Start time: _____
+Start time: 8 p.m
 
-Finish time: _____
+Finish time: 10 p.m
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2 hours
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Number and name of feature: 4. Trails
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 11 p.m
+
+Finish time: 1.:30 p.m
+
+Actual time needed to complete: 2.5 hours
 
